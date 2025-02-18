@@ -1,0 +1,7 @@
+poke
+mark
+liquid
+oil
+water
+spot
+scratch
