@@ -1,9 +1,7 @@
 # PR-UniFSS
 Code of Beyond Mask: Rethinking Guidance Types in Few-shot Segmentation
 
-Hope that PR can accept our work!
-
-This repository is still being gradually updated. Please stay tuned.
+Accepted by Pattern Recognition
 
 ### Datasets
 
