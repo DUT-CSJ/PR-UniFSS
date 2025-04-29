@@ -18,5 +18,5 @@ python train.py --benchmark pascal/coco/fss1000/isaid/pspds --logpath ./your_pat
 Testing
 
 ```
-python test.py --benchmark pascal/coco/fss1000/isaid/pspds --load ./your_path/model.pt --fold 0/1/2/3 --nshot 1/5 --img_size 400 --backbonoe resnet101 --bsz 12
+python test.py --benchmark pascal/coco/fss1000/isaid/pspds --load ./your_path/model.pt --fold 0/1/2/3 --nshot 1/5 --img_size 400 --backbonoe resnet101 --bsz 1
 ```
